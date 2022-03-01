@@ -1,0 +1,146 @@
+INFO	2022-02-19 18:19:43,020	0	USerRestAPI	[main]	********statrt of GetUser class**********
+INFO	2022-02-19 18:19:47,276	4256	USerRestAPI	[main]	********Inside User List*********
+INFO	2022-02-19 18:19:48,058	5038	USerRestAPI	[main]	Page :6
+INFO	2022-02-19 18:19:48,070	5050	USerRestAPI	[main]	Per Page :6
+INFO	2022-02-19 18:19:48,084	5064	USerRestAPI	[main]	Total :12
+INFO	2022-02-19 18:19:48,099	5079	USerRestAPI	[main]	Total Pages :2
+INFO	2022-02-19 18:19:48,606	5586	USerRestAPI	[main]	User ID :7
+INFO	2022-02-19 18:19:48,607	5587	USerRestAPI	[main]	First Name :Michael
+INFO	2022-02-19 18:19:48,607	5587	USerRestAPI	[main]	Last Name :Lawson
+INFO	2022-02-19 18:19:48,607	5587	USerRestAPI	[main]	Email :michael.lawson@reqres.in
+INFO	2022-02-19 18:19:48,607	5587	USerRestAPI	[main]	User ID :8
+INFO	2022-02-19 18:19:48,607	5587	USerRestAPI	[main]	First Name :Lindsay
+INFO	2022-02-19 18:19:48,607	5587	USerRestAPI	[main]	Last Name :Ferguson
+INFO	2022-02-19 18:19:48,608	5588	USerRestAPI	[main]	Email :lindsay.ferguson@reqres.in
+INFO	2022-02-19 18:19:48,608	5588	USerRestAPI	[main]	User ID :9
+INFO	2022-02-19 18:19:48,608	5588	USerRestAPI	[main]	First Name :Tobias
+INFO	2022-02-19 18:19:48,608	5588	USerRestAPI	[main]	Last Name :Funke
+INFO	2022-02-19 18:19:48,608	5588	USerRestAPI	[main]	Email :tobias.funke@reqres.in
+INFO	2022-02-19 18:19:48,608	5588	USerRestAPI	[main]	User ID :10
+INFO	2022-02-19 18:19:48,608	5588	USerRestAPI	[main]	First Name :Byron
+INFO	2022-02-19 18:19:48,608	5588	USerRestAPI	[main]	Last Name :Fields
+INFO	2022-02-19 18:19:48,608	5588	USerRestAPI	[main]	Email :byron.fields@reqres.in
+INFO	2022-02-19 18:19:48,608	5588	USerRestAPI	[main]	User ID :11
+INFO	2022-02-19 18:19:48,608	5588	USerRestAPI	[main]	First Name :George
+INFO	2022-02-19 18:19:48,608	5588	USerRestAPI	[main]	Last Name :Edwards
+INFO	2022-02-19 18:19:48,608	5588	USerRestAPI	[main]	Email :george.edwards@reqres.in
+INFO	2022-02-19 18:19:48,608	5588	USerRestAPI	[main]	User ID :12
+INFO	2022-02-19 18:19:48,608	5588	USerRestAPI	[main]	First Name :Rachel
+INFO	2022-02-19 18:19:48,608	5588	USerRestAPI	[main]	Last Name :Howell
+INFO	2022-02-19 18:19:48,608	5588	USerRestAPI	[main]	Email :rachel.howell@reqres.in
+INFO	2022-02-19 18:19:48,613	5593	USerRestAPI	[main]	********Inside checkContentType*********
+INFO	2022-02-19 18:19:48,613	5593	USerRestAPI	[main]	Content type is ==>application/json; charset=utf-8
+INFO	2022-02-19 18:19:48,618	5598	USerRestAPI	[main]	*******Inside checkResponseBody*******
+INFO	2022-02-19 18:19:48,619	5599	USerRestAPI	[main]	Response Body ==> {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+INFO	2022-02-19 18:19:48,621	5601	USerRestAPI	[main]	****Inside checkStatusCode*******
+INFO	2022-02-19 18:19:48,622	5602	USerRestAPI	[main]	StatusCode ==>200
+INFO	2022-02-19 18:19:48,626	5606	USerRestAPI	[main]	********Inside checkStatusLine*********
+INFO	2022-02-19 18:19:48,626	5606	USerRestAPI	[main]	StatusLine ==>HTTP/1.1 200 OK
+INFO	2022-02-20 10:04:49,414	0	USerRestAPI	[main]	********Inside checkContentType*********
+INFO	2022-02-20 10:04:49,416	2	USerRestAPI	[main]	Content type is ==>application/json; charset=utf-8
+INFO	2022-02-20 10:04:49,419	5	USerRestAPI	[main]	*******Inside checkResponseBody*******
+INFO	2022-02-20 10:04:49,419	5	USerRestAPI	[main]	Response Body ==> {"name":"Rudra","job":"CEO","id":"268","createdAt":"2022-02-20T04:34:49.398Z"}
+INFO	2022-02-20 10:04:49,421	7	USerRestAPI	[main]	****Inside checkStatusCode*******
+INFO	2022-02-20 10:04:49,421	7	USerRestAPI	[main]	StatusCode ==>201
+INFO	2022-02-20 10:04:49,426	12	USerRestAPI	[main]	********Inside checkStatusLine*********
+INFO	2022-02-20 10:04:49,426	12	USerRestAPI	[main]	StatusLine ==>HTTP/1.1 201 Created
+INFO	2022-02-20 10:09:00,324	0	USerRestAPI	[main]	********Inside checkContentType*********
+INFO	2022-02-20 10:09:00,325	1	USerRestAPI	[main]	Content type is ==>application/json; charset=utf-8
+INFO	2022-02-20 10:09:00,329	5	USerRestAPI	[main]	*******Inside checkResponseBody*******
+INFO	2022-02-20 10:09:00,330	6	USerRestAPI	[main]	Response Body ==> {"name":"Rudra","job":"CEO","id":"207","createdAt":"2022-02-20T04:39:00.413Z"}
+INFO	2022-02-20 10:09:00,332	8	USerRestAPI	[main]	****Inside checkStatusCode*******
+INFO	2022-02-20 10:09:00,332	8	USerRestAPI	[main]	StatusCode ==>201
+INFO	2022-02-20 10:09:00,337	13	USerRestAPI	[main]	********Inside checkStatusLine*********
+INFO	2022-02-20 10:09:00,337	13	USerRestAPI	[main]	StatusLine ==>HTTP/1.1 201 Created
+INFO	2022-02-20 10:09:00,344	20	USerRestAPI	[main]	********statrt of GetUser class**********
+INFO	2022-02-20 10:09:01,669	1345	USerRestAPI	[main]	********Inside User List*********
+INFO	2022-02-20 10:09:02,210	1886	USerRestAPI	[main]	Page :6
+INFO	2022-02-20 10:09:02,224	1900	USerRestAPI	[main]	Per Page :6
+INFO	2022-02-20 10:09:02,233	1909	USerRestAPI	[main]	Total :12
+INFO	2022-02-20 10:09:02,245	1921	USerRestAPI	[main]	Total Pages :2
+INFO	2022-02-20 10:09:02,627	2303	USerRestAPI	[main]	User ID :7
+INFO	2022-02-20 10:09:02,627	2303	USerRestAPI	[main]	First Name :Michael
+INFO	2022-02-20 10:09:02,628	2304	USerRestAPI	[main]	Last Name :Lawson
+INFO	2022-02-20 10:09:02,628	2304	USerRestAPI	[main]	Email :michael.lawson@reqres.in
+INFO	2022-02-20 10:09:02,628	2304	USerRestAPI	[main]	User ID :8
+INFO	2022-02-20 10:09:02,628	2304	USerRestAPI	[main]	First Name :Lindsay
+INFO	2022-02-20 10:09:02,628	2304	USerRestAPI	[main]	Last Name :Ferguson
+INFO	2022-02-20 10:09:02,628	2304	USerRestAPI	[main]	Email :lindsay.ferguson@reqres.in
+INFO	2022-02-20 10:09:02,628	2304	USerRestAPI	[main]	User ID :9
+INFO	2022-02-20 10:09:02,628	2304	USerRestAPI	[main]	First Name :Tobias
+INFO	2022-02-20 10:09:02,628	2304	USerRestAPI	[main]	Last Name :Funke
+INFO	2022-02-20 10:09:02,628	2304	USerRestAPI	[main]	Email :tobias.funke@reqres.in
+INFO	2022-02-20 10:09:02,628	2304	USerRestAPI	[main]	User ID :10
+INFO	2022-02-20 10:09:02,628	2304	USerRestAPI	[main]	First Name :Byron
+INFO	2022-02-20 10:09:02,628	2304	USerRestAPI	[main]	Last Name :Fields
+INFO	2022-02-20 10:09:02,628	2304	USerRestAPI	[main]	Email :byron.fields@reqres.in
+INFO	2022-02-20 10:09:02,628	2304	USerRestAPI	[main]	User ID :11
+INFO	2022-02-20 10:09:02,629	2305	USerRestAPI	[main]	First Name :George
+INFO	2022-02-20 10:09:02,629	2305	USerRestAPI	[main]	Last Name :Edwards
+INFO	2022-02-20 10:09:02,629	2305	USerRestAPI	[main]	Email :george.edwards@reqres.in
+INFO	2022-02-20 10:09:02,629	2305	USerRestAPI	[main]	User ID :12
+INFO	2022-02-20 10:09:02,629	2305	USerRestAPI	[main]	First Name :Rachel
+INFO	2022-02-20 10:09:02,629	2305	USerRestAPI	[main]	Last Name :Howell
+INFO	2022-02-20 10:09:02,629	2305	USerRestAPI	[main]	Email :rachel.howell@reqres.in
+INFO	2022-02-20 10:09:02,631	2307	USerRestAPI	[main]	********Inside checkContentType*********
+INFO	2022-02-20 10:09:02,631	2307	USerRestAPI	[main]	Content type is ==>application/json; charset=utf-8
+INFO	2022-02-20 10:09:02,633	2309	USerRestAPI	[main]	*******Inside checkResponseBody*******
+INFO	2022-02-20 10:09:02,634	2310	USerRestAPI	[main]	Response Body ==> {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+INFO	2022-02-20 10:09:02,635	2311	USerRestAPI	[main]	****Inside checkStatusCode*******
+INFO	2022-02-20 10:09:02,636	2312	USerRestAPI	[main]	StatusCode ==>200
+INFO	2022-02-20 10:09:02,637	2313	USerRestAPI	[main]	********Inside checkStatusLine*********
+INFO	2022-02-20 10:09:02,637	2313	USerRestAPI	[main]	StatusLine ==>HTTP/1.1 200 OK
+INFO	2022-03-01 20:17:28,777	0	USerRestAPI	[main]	********Inside checkContentType*********
+INFO	2022-03-01 20:17:28,778	1	USerRestAPI	[main]	Content type is ==>application/json; charset=utf-8
+INFO	2022-03-01 20:17:28,783	6	USerRestAPI	[main]	*******Inside checkResponseBody*******
+INFO	2022-03-01 20:17:28,783	6	USerRestAPI	[main]	Response Body ==> {"name":"Tariq","job":"CEO","id":"219","createdAt":"2022-03-01T14:47:14.576Z"}
+INFO	2022-03-01 20:17:28,785	8	USerRestAPI	[main]	****Inside checkStatusCode*******
+INFO	2022-03-01 20:17:28,786	9	USerRestAPI	[main]	StatusCode ==>201
+INFO	2022-03-01 20:17:28,791	14	USerRestAPI	[main]	********Inside checkStatusLine*********
+INFO	2022-03-01 20:17:28,791	14	USerRestAPI	[main]	StatusLine ==>HTTP/1.1 201 Created
+INFO	2022-03-01 20:18:28,903	0	USerRestAPI	[main]	********Inside checkContentType*********
+INFO	2022-03-01 20:18:28,904	1	USerRestAPI	[main]	Content type is ==>application/json; charset=utf-8
+INFO	2022-03-01 20:18:28,910	7	USerRestAPI	[main]	*******Inside checkResponseBody*******
+INFO	2022-03-01 20:18:28,910	7	USerRestAPI	[main]	Response Body ==> {"name":"Tariq","job":"Strategist","id":"850","createdAt":"2022-03-01T14:48:14.701Z"}
+INFO	2022-03-01 20:18:28,915	12	USerRestAPI	[main]	****Inside checkStatusCode*******
+INFO	2022-03-01 20:18:28,916	13	USerRestAPI	[main]	StatusCode ==>201
+INFO	2022-03-01 20:18:28,923	20	USerRestAPI	[main]	********Inside checkStatusLine*********
+INFO	2022-03-01 20:18:28,923	20	USerRestAPI	[main]	StatusLine ==>HTTP/1.1 201 Created
+INFO	2022-03-01 20:25:42,852	0	USerRestAPI	[main]	********statrt of GetUser class**********
+INFO	2022-03-01 20:25:46,129	3277	USerRestAPI	[main]	********Inside User List*********
+INFO	2022-03-01 20:25:46,770	3918	USerRestAPI	[main]	Page :6
+INFO	2022-03-01 20:25:46,782	3930	USerRestAPI	[main]	Per Page :6
+INFO	2022-03-01 20:25:46,792	3940	USerRestAPI	[main]	Total :12
+INFO	2022-03-01 20:25:46,805	3953	USerRestAPI	[main]	Total Pages :2
+INFO	2022-03-01 20:25:47,184	4332	USerRestAPI	[main]	User ID :7
+INFO	2022-03-01 20:25:47,184	4332	USerRestAPI	[main]	First Name :Michael
+INFO	2022-03-01 20:25:47,184	4332	USerRestAPI	[main]	Last Name :Lawson
+INFO	2022-03-01 20:25:47,185	4333	USerRestAPI	[main]	Email :michael.lawson@reqres.in
+INFO	2022-03-01 20:25:47,185	4333	USerRestAPI	[main]	User ID :8
+INFO	2022-03-01 20:25:47,185	4333	USerRestAPI	[main]	First Name :Lindsay
+INFO	2022-03-01 20:25:47,185	4333	USerRestAPI	[main]	Last Name :Ferguson
+INFO	2022-03-01 20:25:47,185	4333	USerRestAPI	[main]	Email :lindsay.ferguson@reqres.in
+INFO	2022-03-01 20:25:47,185	4333	USerRestAPI	[main]	User ID :9
+INFO	2022-03-01 20:25:47,185	4333	USerRestAPI	[main]	First Name :Tobias
+INFO	2022-03-01 20:25:47,185	4333	USerRestAPI	[main]	Last Name :Funke
+INFO	2022-03-01 20:25:47,185	4333	USerRestAPI	[main]	Email :tobias.funke@reqres.in
+INFO	2022-03-01 20:25:47,185	4333	USerRestAPI	[main]	User ID :10
+INFO	2022-03-01 20:25:47,185	4333	USerRestAPI	[main]	First Name :Byron
+INFO	2022-03-01 20:25:47,185	4333	USerRestAPI	[main]	Last Name :Fields
+INFO	2022-03-01 20:25:47,185	4333	USerRestAPI	[main]	Email :byron.fields@reqres.in
+INFO	2022-03-01 20:25:47,186	4334	USerRestAPI	[main]	User ID :11
+INFO	2022-03-01 20:25:47,186	4334	USerRestAPI	[main]	First Name :George
+INFO	2022-03-01 20:25:47,186	4334	USerRestAPI	[main]	Last Name :Edwards
+INFO	2022-03-01 20:25:47,186	4334	USerRestAPI	[main]	Email :george.edwards@reqres.in
+INFO	2022-03-01 20:25:47,186	4334	USerRestAPI	[main]	User ID :12
+INFO	2022-03-01 20:25:47,186	4334	USerRestAPI	[main]	First Name :Rachel
+INFO	2022-03-01 20:25:47,186	4334	USerRestAPI	[main]	Last Name :Howell
+INFO	2022-03-01 20:25:47,186	4334	USerRestAPI	[main]	Email :rachel.howell@reqres.in
+INFO	2022-03-01 20:25:47,190	4338	USerRestAPI	[main]	********Inside checkContentType*********
+INFO	2022-03-01 20:25:47,190	4338	USerRestAPI	[main]	Content type is ==>application/json; charset=utf-8
+INFO	2022-03-01 20:25:47,194	4342	USerRestAPI	[main]	*******Inside checkResponseBody*******
+INFO	2022-03-01 20:25:47,195	4343	USerRestAPI	[main]	Response Body ==> {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+INFO	2022-03-01 20:25:47,197	4345	USerRestAPI	[main]	****Inside checkStatusCode*******
+INFO	2022-03-01 20:25:47,197	4345	USerRestAPI	[main]	StatusCode ==>200
+INFO	2022-03-01 20:25:47,199	4347	USerRestAPI	[main]	********Inside checkStatusLine*********
+INFO	2022-03-01 20:25:47,199	4347	USerRestAPI	[main]	StatusLine ==>HTTP/1.1 200 OK

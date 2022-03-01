@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Project_reqres_testng_suit">
+  <test thread-count="5" name="Project_reqres_testng_Test">
+    <classes>
+      <class name="com.project.reqres.Post_req"/>
+      <class name="com.project.reqres.Get_req"/>
+    </classes>
+  </test> <!-- Project_reqres_testng_Test -->
+</suite> <!-- Project_reqres_testng_suit -->
